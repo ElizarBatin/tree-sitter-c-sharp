@@ -1,4 +1,4 @@
-module github.com/tree-sitter/tree-sitter-c-sharp
+module github.com/ElizarBatin/tree-sitter-c-sharp
 
 go 1.23
 
